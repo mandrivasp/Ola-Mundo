@@ -5,5 +5,5 @@
 
 Essa linha eu adicionei diretamente no site! QUE IMPRECIONANTE!
 
-Video demostrativo da aula de  Markdown com  **Professor @gustavoguanabara*
+Video demostrativo da aula de  Markdown com  **Professor @gustavoguanabara**
 [Clique aqui para ver a  aula prática](https://github.com/gustavoguanabara/git-github/issues/2376)
